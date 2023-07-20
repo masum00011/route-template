@@ -1,0 +1,9 @@
+.sidenav-item .ps-active {
+    /* color:white; */
+    background-color: red;
+    /* color: black; */
+  }
+  
+  .sidenav-item .ps-active:hover{
+    background-color: none;
+  }
